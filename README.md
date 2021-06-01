@@ -1,6 +1,3 @@
-
-
-
 ## 👋 &nbsp;Hey there! I'm MohanKumar
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -16,15 +13,20 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=007ACC)&nbsp;
+- 💻 &nbsp;
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)
+![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=007ACC)
+![Kotlin](https://img.shields.io/badge/Kotlin-333333?style=flat&logo=kotlin&logoColor=746DDA)
 ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
 ![Android](https://img.shields.io/badge/Android-333333?style=flat&logo=android&logoColor=3DDC84)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -39,12 +41,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+<a href="https://mohanmk23.github.io"><img src="https://img.shields.io/badge/-mohanmk23.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohankumar-s-b23057182/"><img src="https://img.shields.io/badge/-MohanKumar%20S-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohan.smk23@gmail.com&su=&body="><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/mowglie.pop/"><img src="https://img.shields.io/badge/-MohanKumar-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="https://mohan-smk23.medium.com/"><img src="https://img.shields.io/badge/-@mohansmk23-000000?style=flat-square&logo=medium&logoColor=white"/></a>
 </p>
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
