@@ -43,7 +43,7 @@
 <p align="center">
 <a href="https://mohanmk23.github.io"><img src="https://img.shields.io/badge/-mohanmk23.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohankumar-s-b23057182/"><img src="https://img.shields.io/badge/-MohanKumar%20S-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohan.smk23@gmail.com&su=&body="><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohan.smk23@gmail.com&su=&body="><img src="https://img.shields.io/badge/-mohan.smk23@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mowglie.pop/"><img src="https://img.shields.io/badge/-MohanKumar-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://mohan-smk23.medium.com/"><img src="https://img.shields.io/badge/-@mohansmk23-000000?style=flat-square&logo=medium&logoColor=white"/></a>
 </p>
